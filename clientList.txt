@@ -1,0 +1,31 @@
+Office_friend: kamal,kamal@gmail.com,clerk,2000/12/12
+Office_friend: kamal,subodha162@gmail.com,clerk,2000/08/14
+Office_friend: kamal,subodha162@gmail.com,clerk,2000/08/14
+Office_friend: kamal,subodha162@gmail.com,clerk,2000/08/14
+Official: Ashan,ashan.subodha@aiesec.net,LCVP
+Official: Ashan,subodhakra.20@uom.lk,Undergraduate
+Office_friend: Ashan,subodha162@gmail.com,worker,2000/08/14
+Office_friend: Ashan,subodhakra.20@uom.lk,worker,2000/08/14
+Personal: Ashan,NA,subodha162@gmail.com,2000/08/14
+Personal: Subodha,techguy,ashan.subodha@aiesec.net,2000/08/14
+null
+Personal: sunil,<nick-name>,sunil@gmail.com,2000/10/10
+null
+Personal: sunil,<nick-name>,subodha162@gmail.com,2000/08/14
+Personal: sunil,<nick-name>,subodha162@gmail.com,2000/08/14
+null
+null
+Personal: sunil,<nick-name>,subodha162@gmail.com,2000/08/14
+Personal: sunil,<nick-name>,subodha162@gmail.com,2000/08/14
+Personal: sunil,<nick-name>,subodha162@gmail.com,2000/08/14
+Personal: sunil,<nick-name>,subodha162@gmail.com,2000/08/14
+Personal: sunil,<nick-name>,subodha162@gmail.com,2000/08/14
+Personal: sunil,<nick-name>,subodha162@gmail.com,2000/08/14
+Official: Danush, sss, ssss
+Personal: sunil,<nick-name>,subodha162@gmail.com,2000/08/14
+null
+null
+null
+Personal: Ashan Subodha, NA ,ashan.20@cse.mrt.ac.lk,2000/08/15
+null
+null

@@ -1,0 +1,5 @@
+Official: nimal,nimal@gmail.com,ceo
+Office_friend: Ashan,subodha162@gmail.com,ceo,2000/08/14
+Personal: Ashan,<nick-name>,subodha162@gmail.com,2000/08/14
+Office_friend: Subodha,subodha162@gmail.com,clerk,2000/18/14
+Office_friend: Subodha,subodha162@gmail.com,clerk,2000/08/14
